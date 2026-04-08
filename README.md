@@ -38,7 +38,8 @@ netstat -ano | findstr LISTENING
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e3a1f459-5db4-40bc-a89f-fa3b06dcb368" />
 
 8. Import dữ liệu từ file csv mẫu vào trong bảng vừa tạo
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ca094d75-67cd-4b27-af0b-6f94b349b486" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/50141304-102c-4a41-b132-76762b713dab" />
+
 
 9. Kiểm tra xem số dòng của bảng dữ liệu sau khi import: 12020 dòng
 ```sql
