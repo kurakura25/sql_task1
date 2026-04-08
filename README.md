@@ -1,5 +1,5 @@
 # sql_task1
-Bài tập 1 môn Hệ quản trị CSDL
+Task 1
 1. Download và cài đặt SQL Server 2025
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e8d4c71-5455-41df-8251-ec841d5311f0" />
 
@@ -114,6 +114,9 @@ WHERE hotensv LIKE N'Từ%';
 <img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/5d3e4808-e858-4e5a-bdc5-2e7d5b2a1155" />
 
 17. Upload file dulieu.sql lên github repository
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f17aaedb-6e0c-4a6d-9121-696040ecd4fd" />
 
 
 
