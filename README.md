@@ -5,7 +5,7 @@ Task 1
 
 
 2. Cấu hình cho SQL Server làm việc ở cổng động (Dynamic Port), TCP (MSSV:K235480106022):
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b241a615-a045-44e3-8bda-62cdab224364" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fbbe4886-0b3b-4aea-b2c0-bc74e30b9e57" />
 
 
 3. Kiểm tra xem service SQL Server bằng Command Prompt
