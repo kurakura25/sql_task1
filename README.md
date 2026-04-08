@@ -1,5 +1,8 @@
 # sql_task1
 Task 1
+- Họ và tên: Từ Văn Hải
+- Lớp: K59.KMT.K01
+- MSSV: K235480106022
 1. Download và cài đặt SQL Server 2025
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e8d4c71-5455-41df-8251-ec841d5311f0" />
 
